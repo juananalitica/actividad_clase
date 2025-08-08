@@ -1,0 +1,4 @@
+[
+  {"id": 1, "nombre": "Ejemplo 1", "categoria": "A", "fecha": "2024-01-01", "monto": 100, "notas": "Prueba"},
+  {"id": 2, "nombre": "Ejemplo 2", "categoria": "B", "fecha": "2024-02-02", "monto": 200, "notas": "Otro"}
+]
